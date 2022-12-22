@@ -1,0 +1,16 @@
+.item{
+    display:flex;
+    margin-bottom:10px;
+    /* background-color: blue; */
+    /* border-radius:20%; */
+    border-bottom: 1px solid gray;
+    /* margin-right:0px; */
+    justify-content: space-between;
+    /* background-color: black; */
+}
+.price{
+    color:#49796B;
+    font-weight:bolder;
+    margin-top: 5px;
+    margin-bottom: 7px;
+}

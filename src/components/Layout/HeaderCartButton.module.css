@@ -1,0 +1,19 @@
+.button{
+    display:flex;
+    justify-content: space-around;
+    align-items: center;
+    /* border:none; */
+    margin:20px 35px 20px auto;
+    padding-left:40px;
+    padding-right:40px;
+    border-radius:10px;
+    background-color: #004953;
+    font-size:22px;
+    color:white;
+}
+.badge{
+    margin:4px 0px 4px 30px;
+    background-color: #49796B;
+    border-radius:50%;
+    padding:5px 12px 5px 12px;
+}

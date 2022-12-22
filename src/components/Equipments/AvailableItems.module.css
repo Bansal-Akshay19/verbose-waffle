@@ -1,0 +1,12 @@
+.items{
+    position:absolute;
+    margin:280px 60px 0px 350px;
+    /* background-color: black; */
+    width:50%;
+    opacity:0.8;
+    border-radius:10px;
+    color:white;
+}
+ul{
+   list-style-type: none;
+}

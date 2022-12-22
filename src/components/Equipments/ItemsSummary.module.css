@@ -1,0 +1,25 @@
+*{
+    margin:0px;
+}
+.summary{
+    position:absolute;
+    background-color: darkslategray;
+    opacity: 0.8;
+    width:50%;
+    margin:100px 60px 0px 350px;
+    /* font-weight:1000; */
+    /* display:flex; */
+    /* z-index:1; */
+    padding:20px;
+    border-radius:10px;
+    color:white;
+}
+h2{
+    margin-bottom:12px;
+    font-weight: 1000;
+    text-align: center;
+}
+p{
+    margin-bottom: 10px;
+    text-align: center;
+}
