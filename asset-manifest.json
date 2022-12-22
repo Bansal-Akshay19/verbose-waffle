@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/crickart/static/css/main.f76c9d7a.css",
+    "main.js": "/crickart/static/js/main.18f03f11.js",
+    "static/media/header.jpg": "/crickart/static/media/header.56eed4c0e158af175d30.jpg",
+    "index.html": "/crickart/index.html",
+    "main.f76c9d7a.css.map": "/crickart/static/css/main.f76c9d7a.css.map",
+    "main.18f03f11.js.map": "/crickart/static/js/main.18f03f11.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f76c9d7a.css",
+    "static/js/main.18f03f11.js"
+  ]
+}
