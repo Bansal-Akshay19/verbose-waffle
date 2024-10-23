@@ -1,7 +1,7 @@
 # Crickart Web App
 (Using React Js)
 
-Link -> https://bansal-akshay19.github.io/crickart/ 
+Link -> https://palsteyn.github.io/crickart/
 
 It is a cart app where user can select certain items and add them to cart. 
 User can view the cart and can remove or add items to cart. 
